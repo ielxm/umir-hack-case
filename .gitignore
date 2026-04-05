@@ -1,4 +1,4 @@
 .venv/
 __pycache__/
 telegram_userdata.json
-entries_database.db
+database.db
